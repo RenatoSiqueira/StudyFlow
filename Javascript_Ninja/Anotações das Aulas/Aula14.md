@@ -10,7 +10,7 @@
     então eu passo um segundo parâmetro pro reduce, que vai ser o primeiro item no caso,
     o acumulado é o 0 ali na função.
     Se nao passar um valor de acumulado ele pega o primeiro item do array,
-    tomando o como se fosse o valor acumulado,e o valor atual o segundo item.
+    tomando-o como se fosse o valor acumulado, e o valor atual o segundo item.
     Passa sempre por todos os itens do array.
     */
     var array = [1, 2, 3, 4, 5];
@@ -63,7 +63,7 @@
 ```
 ### ARRAYS
 ```js
-    lastIndexOf(); // Procura se o valor existe no indece do final para o inicio
+    lastIndexOf(); // Procura se o valor existe no indice do final para o inicio
 
     var letras = [ 'A', 'E', 'I', 'O', 'U' ];
     console.log( letras.lastIndexOf('O', 2 ); // - 1 * Indicando que ele não existe
