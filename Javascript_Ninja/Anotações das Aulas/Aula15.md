@@ -9,14 +9,12 @@
 ```
 ```html
 <!--
-    Posso colocar no head ou no body:
-    Se eu colocar o script no head, o browser vai baixar aquele script,
-    vai parsear o script, ler tudo o que tem nele e depois vai carregar a página
+    Inserção no Head ou no Body?
+    O script no head fará o browser baixar, parsear e ler tudo antes de carregar a página.
     Colocando o script em um arquivo separado, vai permitir ao navegador fazer cache do script,
-    e na próxima vez que ele for carregar, se o script já foi carregado da primeira vez,
-    o navegador pega do cache e já carrega
+    e na próxima vez que ele for carregar, se já tiver sido carregado, o navegador pegará do cache.
 -->
- <!DOCTYPE html>
+    <!DOCTYPE html>
     <html>
     <head>
         <meta charset="utf-8" />
@@ -105,7 +103,7 @@
                 return this.myProperty;
             }
         };
-        console.log(' myObject:' , myObject.init(), myObject.init()=== myObject );
+        console.log(' myObject:' , myObject.init(), myObject.init() === myObject );
     })(); // Retorna true porque o this está fazendo referência ao objeto myObject
 
     /*
@@ -134,7 +132,7 @@
         var newObject = new Object();
         /* new cria uma nova referência de object e atribui a newObject, que é o
         construtor padrão em JS. Contrutores em JS começam com letras maiúsculas
-        Construtor, cria um novo objeto com algumas características prontas que eu definir
+        Construtor, cria um novo objeto com algumas características prontas que eu definir.
         EM JS posso fazer meus próprios construtores */
 
         function MyConstructor() {
@@ -142,21 +140,21 @@
             this.prop2 = 'prop2';
         }
         var constructor = new MyConstructor();
-        //Criei um novo objeto, instanciei ele e atribui a var constructor
-        console.log( 'MyConstructor', constructor );  MyConstructor {prop1 :"prop1", prop2: "prop2"}
+        //Criei um novo objeto, instanciei ele e atribui à var constructor
+        console.log( 'MyConstructor', constructor );  // MyConstructor {prop1 :"prop1", prop2: "prop2"}
 
         console.log( 'MyConstructor', constructor.prop2 ); // prop2
         // this faz referência ao objeto contructor, vai apontar para o que estiver em constructor
         console.log( prop2 );
         /* is not defined , porque quando o this está dentro de uma função
-         ele está referênciando a window*/
-        prop1 = 'propriedade1'; // sem var eu consigo chamar usando prop1 ou window.prop1
+         ele está referênciando à window */
+        prop1 = 'propriedade1'; // sem var eu consigo chamar usando prop1 ou window.prop1; foi salvo globalmente.
         console.log(window.prop1);
         /*
-        Variável sem var dentro do escopo da função, ele vai criar essa variável em escopo global
-        chamando a função como contrutor, dentro do constructor ele vai ter as propriedades
-         e elas vao ficar penduradas no constructorse chamar
-         como funcao MyConstructor(); vai ficar penduradas no window
+        Variável sem var dentro do escopo da função, ele vai criar essa variável em escopo global.
+        chamando a função como contrutor, dentro do constructor ele terá as propriedades
+        e elas vao ficar penduradas no constructor. 
+        Se chamar como funcao MyConstructor(); vai ficar penduradas no window
         */
 
     })();
@@ -169,7 +167,7 @@
     */
     (function() {
         function myFunction() {
-            return arguments[1];
+            return arguments[0];
         }
         console.log( myFunction(1, 2) ); // 1
     })();
