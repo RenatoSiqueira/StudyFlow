@@ -104,7 +104,7 @@
 > 5. forEach, every, some
 > 6. map, filter e desafio da semana #13
 
->### [Aula #14](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula14.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #14](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula14.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #13 - Parte 1
 > 2. Revisão do desafio da semana #13 - parte 2
 > 3. Revisão do desafio da semana #13 - parte 3
@@ -112,7 +112,7 @@
 > 5. indexOf(), lastIndexOf() e isArray()
 > 6. Desafio da semana #14
 
->### [Aula #15](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula15.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #15](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula15.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #14 - Parte 1
 > 2. Revisão do desafio da semana #14 - parte 2
 > 3. Revisão do desafio da semana #14 - parte 3
