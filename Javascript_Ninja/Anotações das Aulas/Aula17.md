@@ -1,14 +1,14 @@
 ### Regex Parte 1
 ```js
  /*Expressões regulares servem para manipular string
-   São tipos primitivos em Javascript, e são case sensetive
+   São tipos primitivos em Javascript, e são case sensitive
    https://regex101.com, para fazer testes online de regex.
    Entre os / / vamos colocar expressões para analisar texto com o regex.
     Flags:
         g - global
-        i - ignore case sensetive
-    /a/g vai pegar todas as letras a do texto
-    /M/gi - vai pegar todas as letras m, maiúsculas e minúsculas.
+        i - ignore case sensitive
+    /a/g vai pegar todas as letras 'a' do texto
+    /M/gi - vai pegar todas as letras 'm', sejam maiúsculas ou minúsculas.
 
    Como expressão regular é um tipo primitivo, eu posso atribuir a uma variável
    */
@@ -74,26 +74,4 @@
     'Ronaldo'.replace(/(\w)(\w)/g, function(capturaTotal, letra1, letra2){
         return letra1.toUpperCase() + letra2.toLowerCase();
     });// RoNaLdO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
