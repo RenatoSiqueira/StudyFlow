@@ -120,7 +120,7 @@
 > 5. O objeto this
 > 6. Objeto arguments e desafio da semana #15
 
->### [Aula #16](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula16.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #16](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula16.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão desafio da semana #15
 > 2. use strict - Criação de variáveis sem o "var"
 > 3. use strict - uso do with e global this === undefined
@@ -128,7 +128,7 @@
 > 5. Objeto String
 > 6. Objeto String - parte 2 e desafio da semana #16
 
->### [Aula #17](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula17.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #17](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula17.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #16 - parte 1
 > 2. Revisão do desafio da semana #16 - parte 2
 > 3. Revisão do desafio da semana #16 - parte 3
@@ -136,7 +136,7 @@
 > 5. Regex - parte 2
 > 6. Regex - parte 3
 
->### [Aula #18](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula18.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #18](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula18.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão desafio da semana #17 - Parte 1
 > 2. Revisão desafio da semana #17 - parte 2
 > 3. Revisão desafio da semana #17 - parte 3
@@ -144,7 +144,7 @@
 > 5. Regex - Negação
 > 6. Regex - Repetidores
 
->### [Aula #19](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula19.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #19](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula19.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #18 - Parte 1
 > 2. Revisão do desafio da semana #18 - parte 2
 > 3. Revisão do desafio da semana #18 - parte 3
