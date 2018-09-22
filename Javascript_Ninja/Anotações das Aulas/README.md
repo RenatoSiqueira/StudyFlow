@@ -152,7 +152,7 @@
 > 5. Regex - Negação
 > 6. O objeto RegExp()
 
->### [Aula #20](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula20.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #20](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula20.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #19 - Parte 1
 > 2. Revisão do desafio da semana #19 - parte 2
 > 3. JS no browser - Selecionar elementos do DOM
@@ -160,7 +160,7 @@
 > 5. JS no browser - parte 3 - Selecionando elementos do DOM
 > 6. JS no browser - parte 4 - Formulários e eventos
 
->### [Aula #21](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula21.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #21](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula21.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #20 - Parte 1
 > 2. Revisão do desafio da semana #20 - parte 2
 > 3. Sync vs async
