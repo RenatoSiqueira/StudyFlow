@@ -167,7 +167,7 @@
 > 4. setTimeout
 > 5. setTimeout vs setInterval
 
->### [Aula #22](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula22.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #22](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula22.md) ![progress](http://progressed.io/bar/100?title=completed "progress")   
 > 1. Revisão do desafio da semana #21 - Parte 1
 > 2. Revisão do desafio da semana #21 - parte 2
 > 3. Propriedades e métodos de funções - parte 1
@@ -175,7 +175,7 @@
 > 5. Prototype
 > 6. Array-like, editorconfig e desafio da semana #22
 
->### [Aula #23](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula23.md) ![progress](http://progressed.io/bar/0?title=completed "progress")   
+>### [Aula #23](https://github.com/RenatoSiqueira/StudyFlow/blob/master/Javascript_Ninja/Anotações%20das%20Aulas/Aula23.md) ![progress](http://progressed.io/bar/33?title=completed "progress")   
 > 1. Revisão do desafio da semana #22 - Parte 1
 > 2. Revisão do desafio da semana #22 - parte 2
 > 3. Debug - parte 1
