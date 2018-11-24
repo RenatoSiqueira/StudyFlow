@@ -5,6 +5,7 @@
 ## Anotações:
 
 ### Agrupamento de Selects
+```
 <select>
     <optgroup label="Norte">
         <option value="PA">Pará</option>
@@ -13,11 +14,18 @@
         <option value="SC">Santa Catarina</option>
     </optgroup>
 </select>
-
+```
 
 ### Sugestões
+```
 <input type="text" list="cidades" />
 <datalist id="cidades">
     <option>São Paulo</option>
     <option>São Pedro</option>
 </datalist>
+```
+
+### Range
+```
+<input type="range" min="1" max="10" step="1" />
+```
