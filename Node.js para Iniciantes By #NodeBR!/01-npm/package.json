@@ -1,0 +1,12 @@
+{
+  "name": "01-npm",
+  "version": "1.0.0",
+  "description": "># **Node.js para Iniciantes By #NodeBR!** ![progress](http://progressed.io/bar/2?title=completed \"progress\")\r > ![Image](https://www.embarcados.com.br/wp-content/uploads/2018/11/curso-node-js-696x418.png)  \r > Anotações e Desafios do curso [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/), do [Erick Wendel](https://twitter.com/erickwendel_)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
