@@ -3,14 +3,14 @@
 
 
 ### Atualmente:
-- [DevReactJS](https://reactjs.club.hotmart.com)
-- [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/)
-- [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
+- DevPleno: [DevReactJS](https://reactjs.club.hotmart.com) ![progress](http://progressed.io/bar/35?title=completed "progress")
+- EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
+- Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/) ![progress](http://progressed.io/bar/63?title=completed "progress")
 
 ### Aguardando Continuação das Aulas
 - [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
 
-### Concluído
+### Concluído 
 - [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
 - [HTML5](https://www.udemy.com/aprendahtml/)
 - [HTML5 para quem não sabe nada de HTML5](https://www.udemy.com/aprendahtml/learn/v4/overview)
