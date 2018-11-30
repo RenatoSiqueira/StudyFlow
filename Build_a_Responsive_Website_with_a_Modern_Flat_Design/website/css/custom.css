@@ -1,3 +1,124 @@
 body {
-    
+    font-family: 'Open Sans';
+}
+
+/*
+** Containers
+*/
+
+.container { 
+    padding: 40px 20px;
+}
+
+.container-spacy { 
+    padding: 80px 20px;
+}
+
+/*
+** Backgrounds
+*/
+
+.background-orange {
+    background-color: #f8bc3b;
+}
+
+/*
+** Header
+*/
+
+header#main {
+    margin-bottom: 40px;
+}
+
+header#main .brand a {
+    display: block;
+    font-family: "Pacifico";
+    font-size: 2em;
+    color: #393f4a;
+    margin-bottom: 20px;
+}
+
+/*
+** Nav
+*/
+
+nav#main ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+
+nav#main ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav#main ul li:last-child {
+    margin-right: 0;
+}
+
+nav#main ul li a {
+    font-size: 78%;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+nav#main ul li a:not(.button) {
+    color: #393f4a;
+}
+
+/*
+** Buttons
+*/
+
+.button {
+    padding: 14px 30px;
+    border-radius: 5px;
+
+}
+
+.button-primary,
+.button-primary:hover {
+    background-color: #3a3a3a;
+    color: #fff
+}
+
+/*
+** Feature
+*/
+
+.feature {
+    margin-top: 20px;
+}
+
+.feature h1 {
+    font-size: 5.5em;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+    line-height: 70px;
+    margin-bottom: 40px;
+}
+
+/*
+** Features
+*/
+
+.features {
+    text-align: center;
+}
+
+.features h5 {
+    font-weight: 600;
+    font-size: 1.4em;
+}
+
+.features p {
+    font-size: 80%;
+    margin-bottom: 40px;
+}
+
+.features img {
+    margin-bottom: 20px;
 }
