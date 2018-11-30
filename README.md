@@ -4,9 +4,11 @@
 
 ### Atualmente:
 - [DevReactJS](https://reactjs.club.hotmart.com)
-- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
 - [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/)
 - [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
+
+### Aguardando Continuação das Aulas
+- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
 
 ### Concluído
 - [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
