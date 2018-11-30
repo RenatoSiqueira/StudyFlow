@@ -22,6 +22,18 @@ body {
     background-color: #f8bc3b;
 }
 
+.background-green {
+    background-color: #27ae60;
+}
+
+.background-grey {
+    background-color: #3a3a3a;
+}
+
+.background-white {
+    background-color: #fff;
+}
+
 /*
 ** Header
 */
@@ -121,4 +133,23 @@ nav#main ul li a:not(.button) {
 
 .features img {
     margin-bottom: 20px;
+}
+
+/*
+** Recent
+*/
+
+.recent {
+    text-align: center;
+}
+
+.recent h2 {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.recent p {
+    margin-bottom: 60px;
+    color: #96eaba;
 }
