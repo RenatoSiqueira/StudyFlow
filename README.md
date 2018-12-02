@@ -3,9 +3,9 @@
 
 
 ### Atualmente:
-- DevPleno: [DevReactJS](https://reactjs.club.hotmart.com) ![progress](http://progressed.io/bar/37?title=completed "progress")
+- DevPleno: [DevReactJS](https://reactjs.club.hotmart.com) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
-- Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development] (https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
+- Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 
 ### Aguardando Continuação das Aulas
 - [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
