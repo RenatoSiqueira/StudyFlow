@@ -8,7 +8,7 @@
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 
 ### Aguardando Continuação das Aulas
-- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/31?title=completed "progress")
 
 ### Concluído 
 - Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
