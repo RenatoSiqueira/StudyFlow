@@ -10,7 +10,15 @@
 ### Aguardando Continuação das Aulas
 - [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/31?title=completed "progress")
 
-### Concluído 
+### Eventos Concluídos
+- Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
+- Semana GoWeek - RocketSeat - de 05/11/2018 a 09/11/2018 [Twitter Clone](https://github.com/RenatoSiqueira/RocketSeat_GoWeek)
+- FullStack Lab - DevPleno - de 29/10/2018 a 02/11/2018 [WikiHow](https://github.com/RenatoSiqueira/DevPleno_FullStackLab)
+- Hands-On DevReactJs 2ª Edição - DevPleno - [HandsOn-DevReactJs_2th_Edition](https://github.com/RenatoSiqueira/HandsOn-DevReactJs_2th_Edition)
+- FullStack Academy - DevPleno - [Futiba Club](https://github.com/RenatoSiqueira/FullstackAcademy_futibaclub)
+
+
+### Cursos Concluídos
 - Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
 - Udemy: [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
 - Udemy: [HTML5](https://www.udemy.com/aprendahtml/)
