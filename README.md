@@ -19,6 +19,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Design thinking](https://www.udemy.com/design-thinking-br/)
 - Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
 - Udemy: [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
 - Udemy: [HTML5](https://www.udemy.com/aprendahtml/)
