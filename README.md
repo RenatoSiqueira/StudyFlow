@@ -8,7 +8,7 @@
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 
 ### Aguardando Continuação das Aulas
-- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/39?title=completed "progress")
+- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/42?title=completed "progress")
 
 ### Eventos Concluídos
 - Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
