@@ -5,7 +5,7 @@
 
 # Conteúdo
 #### Módulo 1
-- Aulão React-Native 13/12/2018 21 horas de Brasília
+- Aulão React-Native 13/12/2018
 
 #### Módulo2
 - Comece por aqui!
@@ -210,8 +210,8 @@
 #### Módulo22
 - Bônus Aulões
 - Aula 01
-- Aulão 02 - Gravação já disponível
-- Aulão 03 - 21 hrs (Brasília) 26/09/2018
+- Aulão 02
+- Aulão 03 - 26/09/2018
 
 #### Módulo23
 - Bônus: Hands-on React Native - Edição Trip Planner
