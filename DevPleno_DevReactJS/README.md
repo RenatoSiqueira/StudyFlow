@@ -27,10 +27,10 @@
 - React Conceitos Iniciais 
 - 01 React Conceitos Iniciais 
 - 02 O que realmente é o React por trás do JSX?
-- Primeiro Projeto
+- [Primeiro Projeto](https://github.com/RenatoSiqueira/DevPleno_DevReactJS/tree/master/03.%20M%C3%B3dulo%2003%20-%20Introdu%C3%A7%C3%A3o%20ReactJS)
 
 #### Módulo5
-- Primeiro Projeto WEB - Comentários
+- [Primeiro Projeto WEB - Comentários](https://github.com/RenatoSiqueira/DevPleno_DevReactJS/tree/master/04.%20M%C3%B3dulo%2004%20-%20Primeiro%20Projeto%20-%20Coment%C3%A1rios)
 - Aula 01- Criando o projeto, setState, spread operator, renderizando uma lista de componentes
 - Aula 02 - Componentizando com Props
 - Aula 03 - Integrando ao Firebase
