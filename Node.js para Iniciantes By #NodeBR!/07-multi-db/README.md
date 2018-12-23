@@ -41,3 +41,8 @@ docker run \
     -d \
     mongoclient/mongoclient
 ```
+
+### Criando User com Permissão
+```
+docker exec -it mongodb mongo --host localhost -u admin -p senhaadmin --authenticationDatabase admin --eval "db.getSiblingDB('herois').createUser({ user: 'renatosiqueira', pwd: 'minhasenhasecreta', role: [{role: 'readWrite', db: 'herois'}] })"
+```
