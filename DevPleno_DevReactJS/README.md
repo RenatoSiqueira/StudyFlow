@@ -1,5 +1,5 @@
 ># **DevReactJS** ![progress](http://progressed.io/bar/37?title=completed "progress")
-> ![Image](https://hotmart.s3.amazonaws.com/membership_area/faef0e07-aa0d-4cf4-8f30-d4424d5127af/devreactjs.png)  
+> ![Image](https://www.devpleno.com/wp-content/uploads/2017/01/logo-reactjs-preto.png)  
 > Anotações e Desafios do curso [DevReactJS](https://reactjs.club.hotmart.com/), do [Túlio Faria](https://www.devpleno.com/tag/reactjs/)
 
 
@@ -37,20 +37,20 @@
 - **[06:45]** Aula 11 - Publicando o projeto no Firebase Hosting
 
 #### Módulo5 - Primeiro Projeto React-Native
-- **[]** Introdução
-- **[]** Instalando o Genymotion com Google Apps
-- **[]** Primeiro Projeto - MeuIP
-- **[]** Layouts e Flexbox
-- **[]** Projeto - Praticando Flexbox - Calculadora
-- **[]** Projeto - Praticando Flexbox - Calculadora - Parte 2
-- **[]** Código Fonte
+- **[08:30]** Introdução
+- **[05:50]** Instalando o Genymotion com Google Apps
+- **[22:50]** [Primeiro Projeto - MeuIP](https://github.com/RenatoSiqueira/DevPleno_DevReactJS/tree/master/05.%20M%C3%B3dulo%2005%20-%20Primeiro%20Projeto%20React%20Native/MeuIP)
+- **[12:22]** [Layouts e Flexbox](https://github.com/RenatoSiqueira/DevPleno_DevReactJS/tree/master/05.%20M%C3%B3dulo%2005%20-%20Primeiro%20Projeto%20React%20Native/FlexBoxTest)
+- **[21:21]** [Projeto - Praticando Flexbox - Calculadora](https://github.com/RenatoSiqueira/DevPleno_DevReactJS/tree/master/05.%20M%C3%B3dulo%2005%20-%20Primeiro%20Projeto%20React%20Native/Calculadora)
+- **[11:20]** Projeto - Praticando Flexbox - Calculadora - Parte 2
+- **[-]** Código Fonte
 
-#### Módulo6 - Projeto 1: adicionando Autenticação e mais funcionalidades ao primeiro projeto
-- **[]** Adicionando autenticação
-- **[]** Mostrar usuário autenticado
-- **[]** Mostrando erros de autenticação
-- **[]** Criando uma conta nova
-- **[]** Melhorando o layout com bootstrap no projeto
+#### Módulo6 - [Projeto 1: adicionando Autenticação e mais funcionalidades ao primeiro projeto](https://github.com/RenatoSiqueira/DevPleno_DevReactJS/tree/master/06.%20M%C3%B3dulo%2006%20-%20Projeto%201%20-%20Adicionando%20Autentica%C3%A7%C3%A3o%20e%20mais%20funcionalidades%20ao%20primeiro%20projeto)
+- **[20:49]** Adicionando autenticação
+- **[09:31]** Mostrar usuário autenticado
+- **[05:13]** Mostrando erros de autenticação
+- **[15:49]** Criando uma conta nova
+- **[13:51]** Melhorando o layout com bootstrap no projeto
 
 #### Módulo7 - Projeto 2: Gerenciador de Produtos
 - **[]** O que iremos construir? Navegação em SPAs
