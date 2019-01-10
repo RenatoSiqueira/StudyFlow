@@ -5,7 +5,6 @@
 ### Atualmente:
 - DevPleno: [DevReactJS](https://reactjs.club.hotmart.com) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
-- Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 
 ### Aguardando Continuação das Aulas
@@ -20,6 +19,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
 - Udemy: [Design thinking](https://www.udemy.com/design-thinking-br/)
 - Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
 - Udemy: [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
