@@ -1,5 +1,5 @@
 # StudyFlow
-### :bookmark: :octocat: Este repositório possui anotações e exercícios do meu fluxo de estudo para fins de organização.
+### :octocat: Este repositório gerencia a organização do meu fluxo de estudo.
 
 
 ### Atualmente:
