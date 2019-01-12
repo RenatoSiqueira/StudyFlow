@@ -37,9 +37,9 @@
 - **[06:45]** Aula 11 - Publicando o projeto no Firebase Hosting
 
 #### Módulo5 - Primeiro Projeto React-Native
-- **[]** Introdução
-- **[]** Instalando o Genymotion com Google Apps
-- **[]** Primeiro Projeto - MeuIP
+- **[08:29]** Introdução
+- **[05:50]** Instalando o Genymotion com Google Apps
+- **[22:50]** Primeiro Projeto - MeuIP
 - **[]** Layouts e Flexbox
 - **[]** Projeto - Praticando Flexbox - Calculadora
 - **[]** Projeto - Praticando Flexbox - Calculadora - Parte 2
