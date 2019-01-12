@@ -1,14 +1,14 @@
 # StudyFlow
-### :bookmark: :octocat: Este repositório possui anotações e exercícios do meu fluxo de estudo para fins de organização.
+### :octocat: Este repositório gerencia a organização do meu fluxo de estudo.
 
 
 ### Atualmente:
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
-
-### Aguardando Continuação das Aulas
-- [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/45?title=completed "progress")
+- NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/45?title=completed "progress")
+- Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/)  ![progress](http://progressed.io/bar/36?title=completed "progress")
+- Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/)  ![progress](http://progressed.io/bar/66?title=completed "progress")
 
 ### Eventos Concluídos
 - Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
@@ -19,6 +19,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
 - Udemy: [Design thinking](https://www.udemy.com/design-thinking-br/)
 - Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
 - Udemy: [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
