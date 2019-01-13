@@ -9,7 +9,7 @@
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/45?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
 - Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/) ![progress](http://progressed.io/bar/74?title=completed "progress")
-- Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/) ![progress](http://progressed.io/bar/78?title=completed "progress")
+- Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/) ![progress](http://progressed.io/bar/88?title=completed "progress")
 
 ### Eventos Concluídos
 - Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
