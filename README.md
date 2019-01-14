@@ -8,7 +8,6 @@
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/45?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
-- Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/) ![progress](http://progressed.io/bar/74?title=completed "progress")
 - Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/) ![progress](http://progressed.io/bar/88?title=completed "progress")
 
 ### Eventos Concluídos
@@ -20,6 +19,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/)
 - Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
 - Udemy: [Design thinking](https://www.udemy.com/design-thinking-br/)
 - Udemy: [Build a Responsive Website with a Modern Flat Design](https://www.udemy.com/build-responsive-website-designs-with-html5-and-css/)
