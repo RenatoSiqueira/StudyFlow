@@ -1,4 +1,4 @@
-basclass NotImplementedException extends Error {
+class NotImplementedException extends Error {
   constructor() {
     super('Not Implemented Exception');
   }
