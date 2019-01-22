@@ -1,0 +1,11 @@
+{
+  "name": "07-multi-db",
+  "version": "1.0.0",
+  "description": "```\r docker run \\\r     --name postgres \\\r     -e POSTGRES_USER=renatosiqueira \\\r     -e POSTGRES_PASSWORD=minhasenhasecreta \\\r     -e POSTGRES_DB=heroes \\\r     -p 5432:5432 \\\r     -d \\\r     postgres\r ```\r ```\r docker ps\r docker exec -it postgres /bin/bash\r ```\r ```\r docker run \\\r     --name adminer \\\r     -p 8080:8080 \\\r     --link postgres:postgres \\\r     -d \\\r     adminer\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
