@@ -8,7 +8,7 @@
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/56?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
-- Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/) ![progress](http://progressed.io/bar/98?title=completed "progress")
+
 
 ### Eventos Concluídos
 - Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
@@ -19,6 +19,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/)
 - Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/)
 - Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
 - Udemy: [Design thinking](https://www.udemy.com/design-thinking-br/)
