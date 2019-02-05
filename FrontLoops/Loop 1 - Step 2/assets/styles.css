@@ -1,0 +1,76 @@
+body {
+    background-image: url('./img/background.jpg');
+    display: flex;
+    justify-content: center;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+.box_Payment {
+    background-color: #fff;
+    border-radius: 0.3em;
+    text-transform: uppercase;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.box_Payment__header {
+    padding: 0 60px;
+    border-bottom: rgb(228, 228, 228) solid 1px;
+    text-align: center;
+}
+
+.box_Payment__header-dots {
+    font-size: 2rem;
+    color: darkgray;
+    font-weight: bold;
+}
+
+.box_Payment__item {
+    border-bottom: rgb(228, 228, 228) solid 1px;
+    display: flex;
+    align-items: center;
+}
+
+.box_Payment__item-cardLogo {
+    width: 2.5rem;
+    height: 2rem;
+    padding: 10px 25px;
+}
+
+.box_Payment__item-cardName {
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+}
+
+.box_Payment__item-cardName-check {
+    color: #000;
+}
+
+.box_Payment__item-check {
+    margin: auto;
+    width: 1.2em;
+}
+
+.box_Payment__button {
+    background-color: cornflowerblue;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+    border-bottom-left-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+}
+
+.box_Payment__button-name {
+    color: #fff;
+    font-weight: 500;
+    font-size: 11px;
+    text-align: center;
+    margin: 10px 3px;
+}
+
+.box_Payment__button-arrowIcon {
+    width: 0.8rem;
+}
