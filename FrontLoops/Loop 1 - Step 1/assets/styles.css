@@ -6,7 +6,7 @@
 .section_Main {
     display: flex;
     flex-direction: row;
-    background-color: steelblue;
+    background-color: #6D8BBA;
     padding: 8em;
 }
 
@@ -17,12 +17,11 @@ section {
 }
 
 .section_Card {
-    padding: 30px;
     width: 50rem;
 }
 
 .selection_Card:hover {
-    background-color: lightgray;
+    background-color: #F5F5F4;
 }
 
 .section_Image {
@@ -34,7 +33,7 @@ section {
 .section_Header {
     font-weight: 800;
     letter-spacing: 3px;
-    color: royalblue;
+    color: #5165BA;
     padding-top: 15px;
     padding-bottom: 20px;
 }
@@ -52,7 +51,7 @@ section {
 }
 
 .section_FullPrice {
-    color: royalblue;
+    color: #5165BA;
     font-weight: 600;
     font-size: 35px;
 }
