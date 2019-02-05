@@ -1,0 +1,63 @@
+* {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+}
+
+.section_Main {
+    display: flex;
+    flex-direction: row;
+    background-color: steelblue;
+    padding: 8em;
+}
+
+section {
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.section_Card {
+    padding: 30px;
+    width: 50rem;
+}
+
+.selection_Card:hover {
+    background-color: lightgray;
+}
+
+.section_Image {
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+}
+
+.section_Header {
+    font-weight: 800;
+    letter-spacing: 3px;
+    color: royalblue;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.section_Text {
+    color: darkgrey;
+    padding-bottom: 30px;
+}
+
+.section_FullPrice::before {
+    content: "$";
+    font-size: 1rem;
+    position: absolute;
+    padding-top: 5px;
+}
+
+.section_FullPrice {
+    color: royalblue;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+month {
+    font-size: 1rem;
+    font-weight: normal;
+}
