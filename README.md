@@ -20,6 +20,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [JavaScript Exercise Countdown Timer](https://www.udemy.com/javascript-exercise-practice/)
 - Udemy: [JavaScript Basics for Everyone Part 1](https://www.udemy.com/javascript-basics-for-everyone-part-1)
 - Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/)
 - Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/)
