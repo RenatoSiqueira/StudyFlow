@@ -7,7 +7,6 @@
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
-- NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/) ![progress](http://progressed.io/bar/82?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
 
 
@@ -20,6 +19,7 @@
 
 
 ### Cursos Concluídos
+- NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
 - Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/)
 - Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/)
 - Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
