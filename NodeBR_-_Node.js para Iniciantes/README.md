@@ -1,6 +1,9 @@
-># **Node.js para Iniciantes By #NodeBR!** ![progress](http://progressed.io/bar/82?title=completed "progress")
+># **Node.js para Iniciantes By #NodeBR!** ![progress](http://progressed.io/bar/100?title=completed "progress")
 > ![Image](https://www.embarcados.com.br/wp-content/uploads/2018/11/curso-node-js-696x418.png)  
 > Anotações e Desafios do curso [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/), do [Erick Wendel](https://twitter.com/erickwendel_)
+
+###Concluído:
+[Certificado](https://github.com/RenatoSiqueira/StudyFlow/blob/master/NodeBR_-_Node.js%20para%20Iniciantes/Certificado.png)
 
 ### Sumário
 #### Modulo 0 - Introdução
