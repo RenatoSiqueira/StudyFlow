@@ -20,6 +20,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [JavaScript Basics for Everyone Part 1](https://www.udemy.com/javascript-basics-for-everyone-part-1)
 - Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/)
 - Udemy: [Introdução ao Node JS + Express](https://www.udemy.com/introducao-ao-node-js-express/)
 - Udemy: [React Basic in Just 1 Hour](https://www.udemy.com/react-basic-in-just-1-hour/)
