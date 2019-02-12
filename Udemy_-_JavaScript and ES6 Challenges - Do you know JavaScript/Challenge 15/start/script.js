@@ -12,6 +12,15 @@ var vowels = ["a", "e", "i", "o", "u"];
 var str = "Today is best day of my life";
 
 // Write code here
+for (let i = 0; i < str.length; i++) {
+    //if ( vowels.indexOf(str[i]) !== -1 ) vowelsCount++;
+    if ( vowels.includes(str[i]) ) vowelsCount++
+}
+
+// or
+for (let s of str) {
+    if ( vowels.includes(s) ) vowelsCount++
+}
 
 console.log(vowelsCount);
 // 8

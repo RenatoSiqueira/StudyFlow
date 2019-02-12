@@ -15,6 +15,22 @@ It should return an object like this:
 var nums = [10, -12, 30, -1, -8, 0, 14, -33, 20];
 
 // Write sumPlusMinus() function here
+/*
+function sumPlusMinus(nums) {
+  var plus = nums.filter( item => item > 0).reduce( (acc, curr) => acc + curr, 0 );
+  var minus = nums.filter( item => item < 0).reduce( (acc, curr) => acc - curr, 0);
+  return { plus, minus }
+}
+*/
+
+function sumPlusMinus(nums) {
+  return nums.reduce( (acc, curr) => {
+    return {
+      plus: curr > 0 ? acc.plus + curr : acc.plus,
+      minus: curr < 0 ? acc.minus + curr : acc.minus
+    }
+  }, { plus: 0, minus: 0})
+}
 
 console.log(sumPlusMinus(nums));
 // {plus: 74, minus: -54}
