@@ -1,4 +1,4 @@
-># **JavaScript and ES6 Challenges - Do you know JavaScript?** ![progress](http://progressed.io/bar/34?title=completed "progress")
+># **JavaScript and ES6 Challenges - Do you know JavaScript?** ![progress](http://progressed.io/bar/76?title=completed "progress")
 > ![Imagem](https://udemy-images.udemy.com/course/750x422/1700334_1192.jpg)  
 > Anotações e Desafios do curso [JavaScript and ES6 Challenges - Do you know JavaScript?](https://www.udemy.com/javascript-and-es6-challenges/), do [Bogdan Stashchuk](https://www.udemy.com/user/bogdanstashchuk/)
 
