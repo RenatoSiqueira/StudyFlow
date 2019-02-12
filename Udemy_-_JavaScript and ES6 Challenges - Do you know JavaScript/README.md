@@ -2,8 +2,10 @@
 > ![Imagem](https://udemy-images.udemy.com/course/750x422/1700334_1192.jpg)  
 > Anotações e Desafios do curso [JavaScript and ES6 Challenges - Do you know JavaScript?](https://www.udemy.com/javascript-and-es6-challenges/), do [Bogdan Stashchuk](https://www.udemy.com/user/bogdanstashchuk/)
 
-# JavaScript-and-ES6-Challenges
+#### Certificado
+![certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-VR3Z52H9.jpg?l=null)
 
+# JavaScript-and-ES6-Challenges
 
 List of all challenges:
 
