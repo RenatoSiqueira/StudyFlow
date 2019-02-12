@@ -8,7 +8,6 @@
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
-- Udemy: [JavaScript and ES6 Challenges - Do you know JavaScript?](https://www.udemy.com/javascript-and-es6-challenges/) ![progress](http://progressed.io/bar/76?title=completed "progress")
 
 
 ### Eventos Concluídos
@@ -21,6 +20,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [JavaScript and ES6 Challenges - Do you know JavaScript?](https://www.udemy.com/javascript-and-es6-challenges/)
 - Udemy: [JavaScript Exercise Countdown Timer](https://www.udemy.com/javascript-exercise-practice/)
 - Udemy: [JavaScript Basics for Everyone Part 1](https://www.udemy.com/javascript-basics-for-everyone-part-1)
 - Udemy: [Curso Completo de NoSQL e MongoDB, para Profissionais SQL!](https://www.udemy.com/mongodb-nosql/)
