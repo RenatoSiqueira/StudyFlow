@@ -20,6 +20,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [2019 JavaScript Algorithmic Scripting: Advanced Level](https://www.udemy.com/draft/1771110/)
 - Udemy: [JavaScript and ES6 Challenges - Do you know JavaScript?](https://www.udemy.com/javascript-and-es6-challenges/)
 - Udemy: [JavaScript Exercise Countdown Timer](https://www.udemy.com/javascript-exercise-practice/)
 - Udemy: [JavaScript Basics for Everyone Part 1](https://www.udemy.com/javascript-basics-for-everyone-part-1)
