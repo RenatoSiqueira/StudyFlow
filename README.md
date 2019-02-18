@@ -8,7 +8,6 @@
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
-- Udemy: [Learn NodeJS](https://www.udemy.com/draft/1680320/) ![progress](http://progressed.io/bar/61?title=completed "progress")
 - Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) ![progress](http://progressed.io/bar/16?title=completed "progress")
 
 
@@ -22,6 +21,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [Learn NodeJS](https://www.udemy.com/draft/1680320/)
 - Udemy: [2019 JavaScript Algorithmic Scripting: Advanced Level](https://www.udemy.com/draft/1771110/)
 - Udemy: [JavaScript and ES6 Challenges - Do you know JavaScript?](https://www.udemy.com/javascript-and-es6-challenges/)
 - Udemy: [JavaScript Exercise Countdown Timer](https://www.udemy.com/javascript-exercise-practice/)
