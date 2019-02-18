@@ -9,6 +9,7 @@
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
 - Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) ![progress](http://progressed.io/bar/16?title=completed "progress")
+- Udemy: [Aplicações web na prática com Javascript e Node.js](https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/) ![progress](http://progressed.io/bar/0?title=completed "progress")
 
 
 ### Eventos Concluídos
