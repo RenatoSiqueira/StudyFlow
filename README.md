@@ -22,6 +22,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [Blockchain cryptocurrency course 101 for absolute beginners](https://www.udemy.com/blockchain-cryptocurrency-course-101-for-absolute-beginners/)
 - Udemy: [Girls 4 Tech](https://www.udemy.com/girls4tech/)
 - Udemy: [Learn NodeJS](https://www.udemy.com/draft/1680320/)
 - Udemy: [2019 JavaScript Algorithmic Scripting: Advanced Level](https://www.udemy.com/draft/1771110/)
