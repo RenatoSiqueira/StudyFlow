@@ -3,13 +3,13 @@
 
 
 ### Atualmente:
-- Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/)
+- Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/) ![progress](http://progressed.io/bar/60?title=completed "progress")
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
-- Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/36?title=completed "progress")
-- Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) ![progress](http://progressed.io/bar/16?title=completed "progress")
+- Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/45?title=completed "progress")
+- Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) ![progress](http://progressed.io/bar/67?title=completed "progress")
 - Udemy: [Aplicações web na prática com Javascript e Node.js](https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/) ![progress](http://progressed.io/bar/19?title=completed "progress")
 
 
