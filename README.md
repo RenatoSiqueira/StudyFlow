@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/) ![progress](http://progressed.io/bar/60?title=completed "progress")
+- Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/) ![progress](http://progressed.io/bar/73?title=completed "progress")
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
