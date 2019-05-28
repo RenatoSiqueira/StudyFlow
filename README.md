@@ -3,7 +3,6 @@
 
 
 ### Atualmente:
-- Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/) ![progress](http://progressed.io/bar/73?title=completed "progress")
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/38?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
@@ -23,6 +22,7 @@
 
 ### Cursos Concluídos
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
+- Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/)
 - Udemy: [Blockchain cryptocurrency course 101 for absolute beginners](https://www.udemy.com/blockchain-cryptocurrency-course-101-for-absolute-beginners/)
 - Udemy: [Girls 4 Tech](https://www.udemy.com/girls4tech/)
 - Udemy: [Learn NodeJS](https://www.udemy.com/draft/1680320/)
