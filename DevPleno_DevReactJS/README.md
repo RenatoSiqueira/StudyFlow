@@ -1,4 +1,4 @@
-># **DevReactJS** ![progress](http://progressed.io/bar/37?title=completed "progress")
+># **DevReactJS** ![progress](http://progressed.io/bar/43?title=completed "progress")
 > ![Image](https://www.devpleno.com/wp-content/uploads/2017/01/logo-reactjs-preto.png)  
 > Anotações e Desafios do curso [DevReactJS](https://reactjs.club.hotmart.com/), do [Túlio Faria](https://www.devpleno.com/tag/reactjs/)
 
