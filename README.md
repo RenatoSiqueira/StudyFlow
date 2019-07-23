@@ -3,6 +3,9 @@
 
 
 ### Atualmente:
+- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster)
+
+### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/43?title=completed "progress")
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
