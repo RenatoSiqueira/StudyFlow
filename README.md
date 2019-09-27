@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster)
+- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster) ![progress](http://progressed.io/bar/86?title=completed "progress")
 
 ### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
