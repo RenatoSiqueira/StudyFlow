@@ -3,16 +3,16 @@
 
 
 ### Atualmente:
-- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster) ![progress](http://progressed.io/bar/86?title=completed "progress")
+- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster) - 93%
 
 ### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
-- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) ![progress](http://progressed.io/bar/43?title=completed "progress")
+- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 43%
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
-- Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) ![progress](http://progressed.io/bar/7?title=completed "progress")
-- Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) ![progress](http://progressed.io/bar/45?title=completed "progress")
-- Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) ![progress](http://progressed.io/bar/67?title=completed "progress")
-- Udemy: [Aplicações web na prática com Javascript e Node.js](https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/) ![progress](http://progressed.io/bar/19?title=completed "progress")
+- Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) - 7%
+- Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) - 45%
+- Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) - 67%
+- Udemy: [Aplicações web na prática com Javascript e Node.js](https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/) - 19%
 
 
 ### Eventos Concluídos
