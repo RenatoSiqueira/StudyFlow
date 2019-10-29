@@ -1,4 +1,4 @@
-># **FullStackMaster** ![progress](http://progressed.io/bar/80?title=completed "progress")
+># **FullStackMaster** ![progress](http://progressed.io/bar/96?title=completed "progress")
 > ![Image](https://www.devpleno.com/wp-content/uploads/2017/01/Fullstack-master.png)  
 > Anotações e Desafios do curso [FullStackMasker](https://fullstackmaster.club.hotmart.com/), do [Túlio Faria](https://fullstackmaster.club.hotmart.com/)
 
