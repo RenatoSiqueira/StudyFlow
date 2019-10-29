@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster) - 93%
+- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster) - 96%
 
 ### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
