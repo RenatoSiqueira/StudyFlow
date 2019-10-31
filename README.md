@@ -4,7 +4,6 @@
 
 ### Atualmente:
 
-
 ### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 43%
