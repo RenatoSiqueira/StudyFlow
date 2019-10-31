@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster) - 93%
+
 
 ### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
@@ -18,12 +18,16 @@
 ### Eventos Concluídos
 - Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
 - Semana GoWeek - RocketSeat - de 05/11/2018 a 09/11/2018 [Twitter Clone](https://github.com/RenatoSiqueira/RocketSeat_GoWeek)
-- FullStack Lab - DevPleno - de 29/10/2018 a 02/11/2018 [WikiHow](https://github.com/RenatoSiqueira/DevPleno_FullStackLab)
 - Hands-On DevReactJs 2ª Edição - DevPleno - [HandsOn-DevReactJs_2th_Edition](https://github.com/RenatoSiqueira/HandsOn-DevReactJs_2th_Edition)
-- FullStack Academy - DevPleno - [Futiba Club](https://github.com/RenatoSiqueira/FullstackAcademy_futibaclub)
+
+- FullStack Academy #1 - DevPleno - [Meu Dinheiro](https://github.com/RenatoSiqueira/DevPleno_Meu_Dinheiro)
+- FullStack Academy #2 - DevPleno - [iRango](https://github.com/RenatoSiqueira/DevPleno_iRango)
+- FullStack Academy #3 - DevPleno - [Futiba Club](https://github.com/RenatoSiqueira/DevPleno_FutibaClub)
+- FullStack Lab - DevPleno - de 29/10/2018 a 02/11/2018 [WikiHow - Como Fazer](https://github.com/RenatoSiqueira/DevPleno_WikiHow)
 
 
 ### Cursos Concluídos
+- FullStackMasker: [DevPleno FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster)
 - Digital Innovation One: [Introdução ao Node.js com Express](https://github.com/RenatoSiqueira/DigitalInnovationOne_Node-Express/blob/master/certificado.pdf)
 - NodeBR: [Node.js para Iniciantes By #NodeBR!](https://cursos.nodebr.org/)
 - Udemy: [Node.js Absolute Beginners Guide](https://www.udemy.com/nodejs-absolute-beginners-guide/)
