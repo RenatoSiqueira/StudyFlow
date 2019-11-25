@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 34%
+- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 37%
 
 
 ### StandBy:
