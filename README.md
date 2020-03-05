@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 48%
+- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
 
 
 ### StandBy:
@@ -28,6 +28,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [NestJS: Node + Typescript al estilo Angular para crear APIS](https://github.com/RenatoSiqueira/Udemy_NestJS)
 - Udemy: [Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://github.com/RenatoSiqueira/Udemy_Gatsby)
 - DevPleno: [FullStackMaster](https://github.com/RenatoSiqueira/DevPleno_FullStackMaster)
 - Digital Innovation One: [Introdução ao Node.js com Express](https://github.com/RenatoSiqueira/DigitalInnovationOne_Node-Express/blob/master/certificado.pdf)
