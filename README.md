@@ -4,6 +4,7 @@
 
 ### Atualmente:
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
+- Udemy: [Curso Completo de JavaScript Moderno - ES6](https://www.udemy.com/course/draft/1266556/learn/) - 75%
 
 
 ### StandBy:
