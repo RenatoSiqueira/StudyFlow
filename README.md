@@ -4,10 +4,10 @@
 
 ### Atualmente:
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
+- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
 
 
 ### StandBy:
-- DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
 - EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) - 7%
@@ -29,6 +29,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Curso Completo de JavaScript Moderno - ES6](https://www.udemy.com/course/draft/1266556/learn/)
 - Origamid: [Wordpress REST API](https://www.origamid.com/curso/wordpress-rest-api/)
 - Udemy: [NestJS: Node + Typescript al estilo Angular para crear APIS](https://github.com/RenatoSiqueira/Udemy_NestJS)
 - Udemy: [Gatsby: Crie um site PWA com React, GraphQL e Netlify CMS](https://github.com/RenatoSiqueira/Udemy_Gatsby)
