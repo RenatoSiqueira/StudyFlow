@@ -5,6 +5,8 @@
 ### Atualmente:
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
+- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 15%)
+
 
 
 ### StandBy:
@@ -29,6 +31,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Adobe XD: Design de Interfaces para Criação de Sites](https://www.udemy.com/course/ui-ux-design-com-adobe-xd/),
 - Udemy: [Curso Completo de JavaScript Moderno - ES6](https://www.udemy.com/course/draft/1266556/learn/)
 - Origamid: [Wordpress REST API](https://www.origamid.com/curso/wordpress-rest-api/)
 - Udemy: [NestJS: Node + Typescript al estilo Angular para crear APIS](https://github.com/RenatoSiqueira/Udemy_NestJS)
