@@ -3,9 +3,10 @@
 
 
 ### Atualmente:
+- Udemy: [Getting Started with React Hooks]() - 72%
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
-- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 30%)
+- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 40%)
 
 
 
