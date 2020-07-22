@@ -3,7 +3,6 @@
 
 
 ### Atualmente:
-- Udemy: [Getting Started with React Hooks]() - 72%
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
 - Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 40%)
@@ -32,6 +31,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Getting Started with React Hooks](https://github.com/RenatoSiqueira/StudyFlow/tree/master/Udemy_-_Getting%20Started%20with%20React%20Hooks)
 - Udemy: [Adobe XD: Design de Interfaces para Criação de Sites](https://www.udemy.com/course/ui-ux-design-com-adobe-xd/),
 - Udemy: [Curso Completo de JavaScript Moderno - ES6](https://www.udemy.com/course/draft/1266556/learn/)
 - Origamid: [Wordpress REST API](https://www.origamid.com/curso/wordpress-rest-api/)
