@@ -3,7 +3,6 @@
 
 
 ### Atualmente:
-- Harvard - napratica.org.br: [CC50] 23%
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
 - Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 50%)
@@ -31,6 +30,7 @@
 
 
 ### Cursos Concluídos
+- Harvard - napratica.org.br: [CC50 - Ciência da Computação](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-4586723/course-36692-updzj.pdf)
 - Udemy: [Getting Started with React Hooks](https://github.com/RenatoSiqueira/StudyFlow/tree/master/Udemy_-_Getting%20Started%20with%20React%20Hooks)
 - Udemy: [Adobe XD: Design de Interfaces para Criação de Sites](https://www.udemy.com/course/ui-ux-design-com-adobe-xd/),
 - Udemy: [Curso Completo de JavaScript Moderno - ES6](https://www.udemy.com/course/draft/1266556/learn/)
