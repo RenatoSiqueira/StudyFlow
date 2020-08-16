@@ -30,7 +30,7 @@
 
 
 ### Cursos Concluídos
-- Harvard - napratica.org.br: [CC50 - Ciência da Computação](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-4586723/course-36692-updzj.pdf)
+- Harvard - napratica.org.br: [CC50 - Ciência da Computação](https://github.com/RenatoSiqueira/StudyFlow/tree/master/NaPratica%20-%20CC50%20-%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o)
 - Udemy: [Getting Started with React Hooks](https://github.com/RenatoSiqueira/StudyFlow/tree/master/Udemy_-_Getting%20Started%20with%20React%20Hooks)
 - Udemy: [Adobe XD: Design de Interfaces para Criação de Sites](https://www.udemy.com/course/ui-ux-design-com-adobe-xd/),
 - Udemy: [Curso Completo de JavaScript Moderno - ES6](https://www.udemy.com/course/draft/1266556/learn/)
