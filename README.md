@@ -31,6 +31,7 @@
 
 
 ### Cursos Concluídos
+- Udemy: [Curso de Performance Web](https://www.udemy.com/course/curso-de-performance-web/)
 - Udemy: [Criando um ambiente de Desenvolvimento no Windows](https://www.udemy.com/course/criando-um-ambiente-de-desenvolvimento-no-windows/)
 - Harvard - napratica.org.br: [CC50 - Ciência da Computação](https://github.com/RenatoSiqueira/StudyFlow/tree/master/NaPratica%20-%20CC50%20-%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o)
 - Udemy: [Getting Started with React Hooks](https://github.com/RenatoSiqueira/StudyFlow/tree/master/Udemy_-_Getting%20Started%20with%20React%20Hooks)
