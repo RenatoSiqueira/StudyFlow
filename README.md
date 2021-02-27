@@ -1,36 +1,36 @@
 # StudyFlow
+
 ### :octocat: Este repositório gerencia a organização do meu fluxo de estudo.
 
-
 ### Atualmente:
+
+- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 80%)
+
+### StandBy:
+
 - Udemy: [React Avançado](https://github.com/RenatoSiqueira/StudyFlow/tree/master/Udemy_-_React%20Avancado) - 35%
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
-- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 80%)
-
-
-### StandBy:
 - FrontLoops: [FrontLoops](https://github.com/RenatoSiqueira/StudyFlow/tree/master/FrontLoops)
-- EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/) 
+- EDX: [CSS Basics](https://courses.edx.org/courses/course-v1:W3Cx+CSS.0x+3T2018/course/)
 - Udemy: [HTML5 and CSS3 + Bootstrap - the basics of Web Development](https://www.udemy.com/html-css-bootstrap-build-your-first-website-today/) - 7%
 - Udemy: [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/) - 45%
 - Udemy: [JS com TDD na Prática](https://www.udemy.com/js-com-tdd-na-pratica/) - 67%
 - Udemy: [Aplicações web na prática com Javascript e Node.js](https://www.udemy.com/aplicacoes-web-na-pratica-javascript-nodejs/) - 19%
 
-
 ### Eventos Concluídos
+
 > - Hands-On React Native - DevPleno - de 03/12/18 a 17/12/18 [TripPlanner](https://github.com/RenatoSiqueira/DevPleno_TripPlanner)
 > - Semana GoWeek - RocketSeat - de 05/11/2018 a 09/11/2018 [Twitter Clone](https://github.com/RenatoSiqueira/RocketSeat_GoWeek)
 > - Hands-On DevReactJs 2ª Edição - DevPleno - [HandsOn-DevReactJs_2th_Edition](https://github.com/RenatoSiqueira/HandsOn-DevReactJs_2th_Edition)
-
 
 > - FullStack Academy #1 - DevPleno - [Meu Dinheiro](https://github.com/RenatoSiqueira/DevPleno_Meu_Dinheiro)
 > - FullStack Academy #2 - DevPleno - [iRango](https://github.com/RenatoSiqueira/DevPleno_iRango)
 > - FullStack Academy #3 - DevPleno - [Futiba Club](https://github.com/RenatoSiqueira/DevPleno_FutibaClub)
 > - FullStack Lab - DevPleno - de 29/10/2018 a 02/11/2018 [WikiHow - Como Fazer](https://github.com/RenatoSiqueira/DevPleno_WikiHow)
 
-
 ### Cursos Concluídos
+
 - Udemy: [Curso de Performance Web](https://www.udemy.com/course/curso-de-performance-web/)
 - Udemy: [Criando um ambiente de Desenvolvimento no Windows](https://www.udemy.com/course/criando-um-ambiente-de-desenvolvimento-no-windows/)
 - Harvard - napratica.org.br: [CC50 - Ciência da Computação](https://github.com/RenatoSiqueira/StudyFlow/tree/master/NaPratica%20-%20CC50%20-%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o)
