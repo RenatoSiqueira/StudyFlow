@@ -6,7 +6,7 @@
 - Udemy: [React Avançado](https://github.com/RenatoSiqueira/StudyFlow/tree/master/Udemy_-_React%20Avancado) - 35%
 - DevPleno: [PowerSites](https://github.com/RenatoSiqueira/DevPleno_PowerSites) - 29%
 - DevPleno: [DevReactJS](https://github.com/RenatoSiqueira/DevPleno_DevReactJS) - 57%
-- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 65%)
+- Udemy: [JavaScript Ninja](https://www.udemy.com/curso-javascript-ninja/) (3º Vez: 80%)
 
 
 ### StandBy:
